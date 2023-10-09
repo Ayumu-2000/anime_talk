@@ -19,7 +19,7 @@
 ​・おすすめのアニメ情報を閲覧する時
 ## 設計書
 <!--テーマを設定・提出する時点では不要です-->
- 後ほど作成予定
+ https://docs.google.com/spreadsheets/d/1LwhezCU1_Ph5lPdOa1Q2CFJgVRmctTaOE2l8SyU-6S0/edit?usp=sharing
 ​
 ## 開発環境
 - OS：Linux(CentOS)
